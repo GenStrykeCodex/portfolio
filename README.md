@@ -18,6 +18,23 @@ This site highlights my work as a Python developer and serves as a central place
 
 ---
 
+## Project Architecture
+
+```
+portfolio/
+│
+├── image/
+│   └── software-development.png
+│
+├── README.md
+├── index.html
+├── style.css
+├── script.js
+└── LICENSE
+```
+
+---
+
 ## Tech Stack
 
 - **HTML5** – Structure  
@@ -34,5 +51,11 @@ Developed by [**GenStryke Codex**](https://github.com/GenStrykeCodex)
 **LinkedIn**: <a href="https://linkedin.com/in/satyam-raj-anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam raj anand" height="30" width="40" /></a>
 
 **Instagram**: <a href="https://instagram.com/satyamraj_main.882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyamraj_main.882" height="30" width="40" /></a>
+
+---
+
+## License
+
+This project is licensed under **MIT License**.
 
 ---
